@@ -2,8 +2,8 @@
 
 The official membership archive of The Privilege Escalation Foundation
 
-# Board of Directors 
+### Board of Directors 
 
  - [Kris Nóva](https://github.com/kris-nova)
 
-# Members
+### Members
