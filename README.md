@@ -7,3 +7,6 @@ The official membership archive of The Privilege Escalation Foundation
  - [Kris Nóva](https://github.com/kris-nova)
 
 ### Members
+
+# How to become a member
+
