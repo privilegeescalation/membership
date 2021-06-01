@@ -14,6 +14,10 @@ The official membership archive of The Privilege Escalation Foundation
 
 We take membership seriously. So should you.
 
+Anyone can become a member.
+
+Membership is free.
+
 There are 2 ways to become a member of The Privilege Escalation Foundation.
 
  - You are elected by The Board of Directors.
