@@ -12,7 +12,7 @@ I am the type of person who does not historically seek power but is granted it b
 ## Goals
 
 As a Member, I set the following goals for myself:
-* Sponsor 2 candidates simultaneously on average. At this stage it's unclear how long in calendar time a sponsorship takes, or how much time it will take per person. It is also likely unique to the situation. So I would set a goal on how many different people I can feel comfortable being available to mentor at nearly the drop of a hat at any given time. This is in addition to the folks I mentor outside the organization. If they became sponsors
+* Sponsor 2 candidates simultaneously on average. At this stage it's unclear how long in calendar time a sponsorship takes, or how much time it will take per person. It is also likely unique to the situation. So I would set a goal on how many different people I can feel comfortable being available to mentor at nearly the drop of a hat at any given time. This is in addition to the folks I mentor outside the organization. If they became sponsors, this goal would be adjusted to account for new people.
 * Work on raising money, to get a baseline for what I can accomplish, and set a goal for continued fund raising off that. I will be doing this regardless of acceptance of Membership.
 * 99% availability for voting. I cannot truly guarantee 100% but I will get as close as can, with likely planned and unplanned outages.
 
@@ -26,4 +26,3 @@ I also pledge a commitment to reevaluate goals as necessary. That means both dir
 Thank you for the consideration, and thank you for putting this together and doing this work regardless of what you decide.
 
 -Selene Xenia
-
